@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Producto 1", "category": "Películas", "price": 10.99, "likes": 30, "bestseller": true },
+    { "id": 2, "name": "Producto 2", "category": "Series", "price": 19.99, "likes": 45, "bestseller": false },
+    { "id": 3, "name": "Producto 3", "category": "Novelas", "price": 5.99, "likes": 15, "bestseller": true }
+  ]
